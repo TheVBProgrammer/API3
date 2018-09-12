@@ -1,0 +1,26 @@
+{
+	"name": "jucksearm/yii2-theme-devoops",
+	"description": "Yii2 Admin theme modify from DevOOPS bootstrap 3 source 'https://github.com/nnmware/devoops'",
+	"keywords": ["yii2","theme","template","bootstrap","admin","backend"],
+	"type": "yii2-extension",
+	"license": "MIT License",
+	"authors": [
+		{
+			"name": "Jucksearm Boonmor",
+			"email": "jucksearm.bkk@gmail.com",
+			"role": "Author yii2-extension"
+		}
+	],
+	"support": {
+		"source": "https://github.com/jucksearm/yii2-theme-devoops"
+	},
+	"minimum-stability": "dev",
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": {
+	    	"jucksearm\\theme\\devoops\\": ""
+	    }
+	}
+}

@@ -1,0 +1,59 @@
+{
+    "name": "hiqdev/php-collection",
+    "type": "library",
+    "description": "Collection library for PHP",
+    "keywords": [
+        "collection",
+        "library",
+        "php"
+    ],
+    "homepage": "https://github.com/hiqdev/php-collection",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "support@hiqdev.com",
+        "source": "https://github.com/hiqdev/yii2-collection",
+        "issues": "https://github.com/hiqdev/yii2-collection/issues",
+        "wiki": "https://github.com/hiqdev/yii2-collection/wiki",
+        "forum": "http://forum.hiqdev.com/"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "role": "Project lead",
+            "email": "sol@hiqdev.com",
+            "homepage": "http://hipanel.com/"
+        },
+        {
+            "name": "Dmitry Naumenko",
+            "role": "Lead backend developer",
+            "email": "silverfire@hiqdev.com",
+            "homepage": "http://silverfire.me/"
+        },
+        {
+            "name": "Andrey Klochok",
+            "role": "Lead frontend developer",
+            "email": "tafid@hiqdev.com",
+            "homepage": "http://hiqdev.com/"
+        },
+        {
+            "name": "Yuriy Myronchuk",
+            "role": "QA Lead",
+            "email": "bladeroot@hiqdev.com",
+            "homepage": "http://hiqdev.com/"
+        }
+    ],
+    "require-dev": {
+        "hiqdev/hidev-php": "*",
+        "hiqdev/hidev-hiqdev": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hiqdev\\php\\collection\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "hiqdev\\php\\collection\\tests\\": "tests"
+        }
+    }
+}

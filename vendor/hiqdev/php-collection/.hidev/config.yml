@@ -1,0 +1,7 @@
+package:
+    type:           library
+    name:           php-collection
+    title:          Collection library for PHP
+    headline:       PHP Collection
+    keywords:       collection, library, php
+    namespace:      hiqdev\php\collection
