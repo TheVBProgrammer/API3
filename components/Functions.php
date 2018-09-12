@@ -10,6 +10,7 @@ namespace app\components;
 
 use Yii;
 use yii\base\Component;
+use app\models\Accesstoken;
 
 /**
  * Description of Functions
@@ -75,6 +76,29 @@ class Functions extends Component{
            $Command->bindValue($Key, $Value); 
         }
         $ret=$Command->execute();
+        return $ret;
+    }
+    function CheckToken($id,$tk){
+        $Accesstoken= Accesstoken::find()->where(['agency_id'=>$id,'AccessToken'=>$tk])->one();
+        if(!$Accesstoken){//Unauthorized
+            $ret=[
+              'Success'=>false,
+              'Description'=>'Unauthorized Access'
+            ];
+        }else{
+            if($Accesstoken->AccessToken==$tk){//valid token
+                $ret=[
+                    'Success'=>true,
+                    'Description'=>'Authorized Access'
+                ];
+            }else{// Invalid Token
+                $ret=[
+                    'Success'=>false,
+                    'Description'=>'Invalid/Expired Token'
+                ];
+            }
+        }
+         \Yii::$app->response->format = \yii\web\Response::FORMAT_JSON;
         return $ret;
     }
 }
