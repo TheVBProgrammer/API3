@@ -14,9 +14,21 @@ class LabController extends \yii\web\Controller
     
     public function actionGetLab(){
         $get= \Yii::$app->request->get();
-        $id=$get['id'];
-        $rstl_id=$get['rid'];
-        $tk=$get['tk'];
+        if(isset($get['id'])){
+            $id=$get['id'];
+        }else{
+            $id=0;
+        }
+        if(isset($get['rid'])){
+            $rstl_id=$get['rid'];
+        }else{
+            $rstl_id=-1;
+        }
+        if(isset($get['tk'])){
+            $tk=$get['tk'];
+        }else{
+            $tk="";
+        }
         $Func=new Functions();
         $ret=$Func->CheckToken($rstl_id, $tk);
         if($ret['Success']){
@@ -34,8 +46,21 @@ class LabController extends \yii\web\Controller
     }
     public function actionGettestname(){
         $get= \Yii::$app->request->get();
-        $rstl_id=$get['rid'];
-        $tk=$get['tk'];
+        if(isset($get['id'])){
+            $id=$get['id'];
+        }else{
+            $id=0;
+        }
+        if(isset($get['rid'])){
+            $rstl_id=$get['rid'];
+        }else{
+            $rstl_id=-1;
+        }
+        if(isset($get['tk'])){
+            $tk=$get['tk'];
+        }else{
+            $tk="";
+        }
         $Func=new Functions();
         $ret=$Func->CheckToken($rstl_id, $tk);
         if($ret['Success']){
@@ -50,9 +75,21 @@ class LabController extends \yii\web\Controller
     }
     public function actionGettestnameMethod(){
         $get= \Yii::$app->request->get();
-        $id=$get['id'];
-        $rstl_id=$get['rid'];
-        $tk=$get['tk'];
+        if(isset($get['id'])){
+            $id=$get['id'];
+        }else{
+            $id=0;
+        }
+        if(isset($get['rid'])){
+            $rstl_id=$get['rid'];
+        }else{
+            $rstl_id=-1;
+        }
+        if(isset($get['tk'])){
+            $tk=$get['tk'];
+        }else{
+            $tk="";
+        }
         $Func=new Functions();
         $ret=$Func->CheckToken($rstl_id, $tk);
         if($ret['Success']){
@@ -67,9 +104,21 @@ class LabController extends \yii\web\Controller
     }
     public function actionGetsampletypeTestname(){
         $get= \Yii::$app->request->get();
-        $id=$get['id'];
-        $rstl_id=$get['rid'];
-        $tk=$get['tk'];
+        if(isset($get['id'])){
+            $id=$get['id'];
+        }else{
+            $id=0;
+        }
+        if(isset($get['rid'])){
+            $rstl_id=$get['rid'];
+        }else{
+            $rstl_id=-1;
+        }
+        if(isset($get['tk'])){
+            $tk=$get['tk'];
+        }else{
+            $tk="";
+        }
         $Func=new Functions();
         $ret=$Func->CheckToken($rstl_id, $tk);
         if($ret['Success']){
@@ -84,9 +133,21 @@ class LabController extends \yii\web\Controller
     }
     public function actionGetlabsampletype(){
         $get= \Yii::$app->request->get();
-        $id=$get['id'];
-        $rstl_id=$get['rid'];
-        $tk=$get['tk'];
+        if(isset($get['id'])){
+            $id=$get['id'];
+        }else{
+            $id=0;
+        }
+        if(isset($get['rid'])){
+            $rstl_id=$get['rid'];
+        }else{
+            $rstl_id=-1;
+        }
+        if(isset($get['tk'])){
+            $tk=$get['tk'];
+        }else{
+            $tk="";
+        }
         $Func=new Functions();
         $ret=$Func->CheckToken($rstl_id, $tk);
         if($ret['Success']){
@@ -104,8 +165,21 @@ class LabController extends \yii\web\Controller
     }
     public function actionGetsampletype(){
         $get= \Yii::$app->request->get();
-        $rstl_id=$get['rid'];
-        $tk=$get['tk'];
+       if(isset($get['id'])){
+            $id=$get['id'];
+        }else{
+            $id=0;
+        }
+        if(isset($get['rid'])){
+            $rstl_id=$get['rid'];
+        }else{
+            $rstl_id=-1;
+        }
+        if(isset($get['tk'])){
+            $tk=$get['tk'];
+        }else{
+            $tk="";
+        }
         $Func=new Functions();
         $ret=$Func->CheckToken($rstl_id, $tk);
         if($ret['Success']){
