@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <customers>
+  <customer>
+   <origCustomerid>771</origCustomerid>
+   <agencyHead>Mary Ann Parot</agencyHead>
+   <customerCode></customerCode>
+   <customerName>2M Farm and Marine Products</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>NIA Subdivision, Sun Street, Tumaga, Zamboanga City</houseNumber>
+   <tel>9550458</tel>
+   <fax>9550458</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>598</origCustomerid>
+   <agencyHead>2nd Marine Brigade</agencyHead>
+   <customerCode></customerCode>
+   <customerName>2nd Marine Brigade</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>KHTB, Bus-Bus, Jolo, Sulu</houseNumber>
+   <tel>09173941163</tel>
+   <fax>09173941163</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1415</origCustomerid>
+   <agencyHead>3Js Water Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>3Js Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>13</barangay_id>
+   <houseNumber>Purok 3, Labuan, Zamboanga City</houseNumber>
+   <tel>09367671508</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1268</origCustomerid>
+   <agencyHead>EDUARDO DOREN</agencyHead>
+   <customerCode></customerCode>
+   <customerName>3L MARINE PRODUCTS</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>32</barangay_id>
+   <houseNumber>#125 Riverview Subdivision</houseNumber>
+   <tel>09277133721</tel>
+   <fax>955 6355</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1384</origCustomerid>
+   <agencyHead>9th Forward Service Support Unit, Army Support Command, Philippine Army</agencyHead>
+   <customerCode></customerCode>
+   <customerName>9th Forward Service Support Unit, Army Support Command, Philippine Army</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>16</barangay_id>
+   <houseNumber>Camp General Arturo T Enrile</houseNumber>
+   <tel>09778500012</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1393</origCustomerid>
+   <agencyHead>A &amp; G Water Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>A &amp; G Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>50</barangay_id>
+   <houseNumber>MCLL Highway</houseNumber>
+   <tel>09265088603</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1166</origCustomerid>
+   <agencyHead>A Blackstone Energy Corporation</agencyHead>
+   <customerCode></customerCode>
+   <customerName>A Blackstone Energy Corporation</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1236</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Ganyangan</houseNumber>
+   <tel>09269566582</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>828</origCustomerid>
+   <agencyHead>Abbygaile G. Abonalla</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Abbygaile G. Abonalla</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>88</barangay_id>
+   <houseNumber>Zamboanga City High School</houseNumber>
+   <tel>09266477505</tel>
+   <fax>NONE</fax>
+   <email>rychagaile@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1556</origCustomerid>
+   <agencyHead>Abdulhussien G. Jamahali</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Abdulhussien G. Jamahali</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>67</barangay_id>
+   <houseNumber>Fernando Luciano Drive, Mampang, Zamboanga City</houseNumber>
+   <tel>09350935246</tel>
+   <fax>09350935246</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>627</origCustomerid>
+   <agencyHead>Abdulla Mohammad</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Abdulla Mohammad</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Tumaga Porcentro, Zamboanga City</houseNumber>
+   <tel>(0939)7082187</tel>
+   <fax>(0939)7082187</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>618</origCustomerid>
+   <agencyHead>Abdulwakil Tanjijil</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Abdulwakil Tanjijil</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>San roque, Zamboanga City</houseNumber>
+   <tel>(0926)3313477</tel>
+   <fax>(0926)3313477</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>808</origCustomerid>
+   <agencyHead>Abdulwarith T. Kinarang</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Abdulwarith T. Kinarang</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>1</province_id>
+   <municipalityCity_id>1</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Talon-Talon, Zamboanga City</houseNumber>
+   <tel>09068338497</tel>
+   <fax>09068338497</fax>
+   <email>kinarangabdulwarith@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>16</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>600</origCustomerid>
+   <agencyHead>Abdusalam Al-Hussin</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Abdusalam Al-Hussin</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Bongao, Tawi-Tawi</houseNumber>
+   <tel>(0920)2534962</tel>
+   <fax>(0920)2534962</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>979</origCustomerid>
+   <agencyHead>Abigail Q. Ambe</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Abigail Q.Ambe</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Baliwasan</houseNumber>
+   <tel>09266836549</tel>
+   <fax>NONE</fax>
+   <email>Ambeabigail@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1310</origCustomerid>
+   <agencyHead>ABL Gas Station and Supplier</agencyHead>
+   <customerCode></customerCode>
+   <customerName>ABL Gas Station and Supplier</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>27</barangay_id>
+   <houseNumber>Maestra Vicenta</houseNumber>
+   <tel>310-4216</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1081</origCustomerid>
+   <agencyHead>DIOSDADO MENDOZA</agencyHead>
+   <customerCode></customerCode>
+   <customerName>ACF INTERNATIONAL</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Baliwasan Galvez Bldg., Baliwasan</houseNumber>
+   <tel>09062541690</tel>
+   <fax>09175584961</fax>
+   <email>email@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>16</nature_id>
+   <industry_id>19</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>177</origCustomerid>
+   <agencyHead></agencyHead>
+   <customerCode></customerCode>
+   <customerName>ADELA CHIONG</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Magay St., Zamboanga City</houseNumber>
+   <tel>991-4322</tel>
+   <fax></fax>
+   <email></email>
+   <type_id>0</type_id>
+   <nature_id>0</nature_id>
+   <industry_id>0</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1146</origCustomerid>
+   <agencyHead>Adriel Jan D. Bruno</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Adriel Jan D. Bruno</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>25</barangay_id>
+   <houseNumber>Talungun</houseNumber>
+   <tel>09266105627</tel>
+   <fax>NONE</fax>
+   <email>adrieljan.bruno@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>622</origCustomerid>
+   <agencyHead>AECID/NFI</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AECID/NFI</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Lazaro Drive, Sunrise Village, Isabela City, Basilan</houseNumber>
+   <tel>(0905)5137319</tel>
+   <fax>(0905)5137319</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>16</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1216</origCustomerid>
+   <agencyHead>Aedrian Albenda</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aedrian Albenda</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>27</barangay_id>
+   <houseNumber>DPLMHS, </houseNumber>
+   <tel>09272581673</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>818</origCustomerid>
+   <agencyHead>Agnes T. Rabina</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agnes T. Rabina</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Southcom Village, Upper Calarian, Zamboanga City</houseNumber>
+   <tel>09059442794</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>9</nature_id>
+   <industry_id>19</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>568</origCustomerid>
+   <agencyHead>Aileen a. Enriquez.</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua Base Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>EAAB, Santa Maria, Zamboanga City</houseNumber>
+   <tel>(0923) 5081486</tel>
+   <fax>(0923) 5081486</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>857</origCustomerid>
+   <agencyHead>Mr. Rogelio Quibilan</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua Cherry Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>77</barangay_id>
+   <houseNumber>MCLL Highway</houseNumber>
+   <tel>9263524</tel>
+   <fax>9263524</fax>
+   <email>none</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>870</origCustomerid>
+   <agencyHead>Aimee T. Estrellas</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua de Buen Salud</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>10</barangay_id>
+   <houseNumber>Cawit Zone-II</houseNumber>
+   <tel>9820150</tel>
+   <fax>9820150</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>5</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1495</origCustomerid>
+   <agencyHead>Agua de Paz</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua de Paz</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>12</barangay_id>
+   <houseNumber>Zone 1</houseNumber>
+   <tel>09167444483</tel>
+   <fax>09167444483</fax>
+   <email>email</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1410</origCustomerid>
+   <agencyHead>Agua de Salud</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua de Salud</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>71</barangay_id>
+   <houseNumber>Cariaga</houseNumber>
+   <tel>09267906847</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1548</origCustomerid>
+   <agencyHead>Lucia S. Balisi</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua Vince-Ino Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>53</barangay_id>
+   <houseNumber>Guiwan Daisy, Tugbungan Extension, Z.C.</houseNumber>
+   <tel>09369076530</tel>
+   <fax>none</fax>
+   <email>none</email>
+   <type_id>2</type_id>
+   <nature_id>16</nature_id>
+   <industry_id>5</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>648</origCustomerid>
+   <agencyHead>Agua Vivo Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua Vivo Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>450 San Jose Road, Zamboanga City</houseNumber>
+   <tel>(310-1102)</tel>
+   <fax>(310-1102)</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1533</origCustomerid>
+   <agencyHead>Agua Wils Purified Water Division</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua Wils Purified Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>50</barangay_id>
+   <houseNumber>Divisoria, Zamboanga City</houseNumber>
+   <tel>09177560388</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>381</origCustomerid>
+   <agencyHead>Agua Zha</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Agua Zha</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Uy Drive, Lumiyap, Divisoria, Zamboanga City</houseNumber>
+   <tel>(0916)5434013</tel>
+   <fax>(0916)5434013</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1586</origCustomerid>
+   <agencyHead>AHJEM Fishing Corporation</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AHJEM Fishing Corporation</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>93</barangay_id>
+   <houseNumber>Morning Breeze</houseNumber>
+   <tel>0917-3059555</tel>
+   <fax>0917-3059555</fax>
+   <email>none</email>
+   <type_id>2</type_id>
+   <nature_id>6</nature_id>
+   <industry_id>19</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>577</origCustomerid>
+   <agencyHead>Ahmad Al-Abidin S. Nuruddin</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Ahmad Al-Abidin S. Nuruddin</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>First Street, Aurora Village, Zamboanga City</houseNumber>
+   <tel>(0935)9059379</tel>
+   <fax>(0935)9059379</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>341</origCustomerid>
+   <agencyHead>Aico L. Paghinayan</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aico L. Paghinayan</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Saint Columban College, Pagadian City, ZDS</houseNumber>
+   <tel>09092891885</tel>
+   <fax>09092891885</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1296</origCustomerid>
+   <agencyHead>AIJUDIN B. TABBUH</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AIJUDIN B. TABBUH</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>77</barangay_id>
+   <houseNumber>Sto. Niño village</houseNumber>
+   <tel>09975545919</tel>
+   <fax>09975545919</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1385</origCustomerid>
+   <agencyHead>Ailyn St. Tulang</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Ailyn St. Tulang</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>1</barangay_id>
+   <houseNumber>Phase 2 Blk 12 Lot 16, Country Homes</houseNumber>
+   <tel>09177732342</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1607</origCustomerid>
+   <agencyHead>Aimie M. Dagalea</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aimie M. Dagalea</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>25</barangay_id>
+   <houseNumber>Villa Margarita, San roque</houseNumber>
+   <tel>09150094494</tel>
+   <fax>09150094494</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>16</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1247</origCustomerid>
+   <agencyHead>Aina-Mardhiah S. Tarang</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aina-Mardhiah S. Tarang</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>5</barangay_id>
+   <houseNumber>Lower</houseNumber>
+   <tel>09359144914</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1575</origCustomerid>
+   <agencyHead>JORDAN CORONEL HALIL</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AIZA SPRING WATER REFILLING STATION</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>15</barangay_id>
+   <houseNumber>Sitio Caragasan, Maasin</houseNumber>
+   <tel>09359369377</tel>
+   <fax>09359369377</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>498</origCustomerid>
+   <agencyHead>Al-Gajar M. Sarahadil and Jeckson M. Yusop</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Al-Gajar M. Sarahadil and Jeckson M. Yusop</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>WMSU-Baliwasan Normal Road, ZC</houseNumber>
+   <tel>09352429635</tel>
+   <fax>09352429635</fax>
+   <email>email@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1188</origCustomerid>
+   <agencyHead>JAQUELINE G. MAGASA</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AL-JAY GASOLINE STATION</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>80</barangay_id>
+   <houseNumber>Malasugat </houseNumber>
+   <tel>09177069261</tel>
+   <fax>9268230</fax>
+   <email>yahoo@gmail.com</email>
+   <type_id>2</type_id>
+   <nature_id>6</nature_id>
+   <industry_id>19</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>855</origCustomerid>
+   <agencyHead>Al-rasid Lim/Maylyn Dela Cruz</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Al-rasid Lim/Maylyn Dela Cruz</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>93</barangay_id>
+   <houseNumber>Barigon, Purok 8</houseNumber>
+   <tel>09163957833</tel>
+   <fax>09163957833</fax>
+   <email>butterflyshid@yahoo.com.ph</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1112</origCustomerid>
+   <agencyHead>Albasher H. Uddin</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Albasher H. Uddin</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>86</barangay_id>
+   <houseNumber>El Maharlika Drive</houseNumber>
+   <tel>09366028698</tel>
+   <fax>09366028698</fax>
+   <email>boombuzzteak@yahoo.com.ph</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1615</origCustomerid>
+   <agencyHead>Alcui`s Food</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alcui`s Food</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>19</barangay_id>
+   <houseNumber>Block 2, Lot 53, Carmen Valley Subdivision, Pasonanca, Zamboanga City</houseNumber>
+   <tel>09066132331</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>839</origCustomerid>
+   <agencyHead>Aldette D. Dela Cruz</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aldette D. Dela Cruz</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>88</barangay_id>
+   <houseNumber>Falcatan</houseNumber>
+   <tel>09158842958</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>976</origCustomerid>
+   <agencyHead>Alejandro A. Jalil</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alejandro A. Jalil</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Isabela City, Basilan</houseNumber>
+   <tel>09368029877</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1141</origCustomerid>
+   <agencyHead>Alelie C. Perez</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alelie C. Perez</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>67</barangay_id>
+   <houseNumber>-</houseNumber>
+   <tel>09056385059</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>400</origCustomerid>
+   <agencyHead>Alenter Foods Incorporated</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alenter Foods Incorporated</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>San Antonio, Katipunan, Zamboanga del Norte</houseNumber>
+   <tel>09255544114</tel>
+   <fax>09255544114</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>3</nature_id>
+   <industry_id>4</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>875</origCustomerid>
+   <agencyHead>Alfatilyn P. Uding</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alfatilyn P. Uding</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>32</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>09367270809</tel>
+   <fax>NONE</fax>
+   <email>fhatty_07@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1252</origCustomerid>
+   <agencyHead>Sandy Grace Arnado</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alindahaw Lakeview Resort</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1217</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Biswangan</houseNumber>
+   <tel>09178762908</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1267</origCustomerid>
+   <agencyHead>Alkaline Ion</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alkaline Ion</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>88</barangay_id>
+   <houseNumber>Don Alfaro</houseNumber>
+   <tel>09177912479</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1416</origCustomerid>
+   <agencyHead>All Natural Fresh Purified Water</agencyHead>
+   <customerCode></customerCode>
+   <customerName>All Natural Fresh Purified Water</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>53</barangay_id>
+   <houseNumber>Old Highway</houseNumber>
+   <tel>09177560388</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>569</origCustomerid>
+   <agencyHead>Allama Addah</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Allama Addah</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Jolo, Sulu</houseNumber>
+   <tel>(0906)6640489</tel>
+   <fax>(0906)6640489</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1152</origCustomerid>
+   <agencyHead>Allan Ayub C. Ahiron</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Allan Ayub C. Ahiron</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>25</barangay_id>
+   <houseNumber>Regional Science High School, Malasiga</houseNumber>
+   <tel>09158684984</tel>
+   <fax>09158684984</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>16</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1045</origCustomerid>
+   <agencyHead>Allan Villanueva</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Allan Villanueva</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>24</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>091730030000</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1560</origCustomerid>
+   <agencyHead>Allyson Sun</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Allyson Sun</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>8</barangay_id>
+   <houseNumber>318 Mayor Jaldon Street</houseNumber>
+   <tel>09054600096</tel>
+   <fax>09054600096</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>312</origCustomerid>
+   <agencyHead>ALNASHRI C. KONG</agencyHead>
+   <customerCode></customerCode>
+   <customerName>ALNASHRI C. KONG</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Tumaga Porcentro, Zamboanga City</houseNumber>
+   <tel>09275259050</tel>
+   <fax>09275259050</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>690</origCustomerid>
+   <agencyHead>Mr. Godofredo Nardo</agencyHead>
+   <customerCode></customerCode>
+   <customerName>ALTAWITAWI NICKEL CORPORATION</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Tumbagaan Island, Languyan, Tawi-Tawi</houseNumber>
+   <tel>09265763197</tel>
+   <fax>09175842968</fax>
+   <email>email@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>7</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1453</origCustomerid>
+   <agencyHead>ALTHEA BIOPURE WATER REFILLING STATION</agencyHead>
+   <customerCode></customerCode>
+   <customerName>ALTHEA BIOPURE WATER REFILLING STATION</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>67</barangay_id>
+   <houseNumber>Km. 6 Pioquinto compound, Mampang</houseNumber>
+   <tel>09759764541</tel>
+   <fax>09759764541</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1037</origCustomerid>
+   <agencyHead>Alvin Toribio</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alvin Toribio</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>93</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>09279591780</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1055</origCustomerid>
+   <agencyHead>Alvin U. Ang</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alvin U. Ang</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1206</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>09177102028</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>742</origCustomerid>
+   <agencyHead>Alwina S. Munoz</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Alwina S. Munoz</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Putik, Lunzuran, Zamboanga City</houseNumber>
+   <tel>984-1379</tel>
+   <fax>984-1379</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>16</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>940</origCustomerid>
+   <agencyHead>AMBAG</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AMBAG</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>81</barangay_id>
+   <houseNumber>Rojo Compound</houseNumber>
+   <tel>09063273661</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>866</origCustomerid>
+   <agencyHead>Jusan C. Pata</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AMD Purified Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>77</barangay_id>
+   <houseNumber>Putik, Tumaga Road</houseNumber>
+   <tel>09193091054/9266618</tel>
+   <fax>09193091054/9266618</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>5</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1477</origCustomerid>
+   <agencyHead>AMEER`S Water Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AMEER`S Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>33</barangay_id>
+   <houseNumber>Tumaga Porcentro, Zamboanga City</houseNumber>
+   <tel>09265088603</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>864</origCustomerid>
+   <agencyHead>Amelia M. Reutimann</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Amelia M. Reutimann</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>21</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>09054497282/9918243</tel>
+   <fax>09054497282/9918243</fax>
+   <email>none</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>19</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>895</origCustomerid>
+   <agencyHead>Melina Reguinto</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AMR Trade &amp; Industrial Development Corporation</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>10</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>982-0194</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1430</origCustomerid>
+   <agencyHead>Amy Water Supply and Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Amy Water Supply and Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Sanga Sanga Tawi Tawi</houseNumber>
+   <tel>09094450048</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>800</origCustomerid>
+   <agencyHead>Ana Marie V. Alalan</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Ana Marie V. Alalan</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Don Toribio Street, Tetuan, Zamboanga City</houseNumber>
+   <tel>09355976845</tel>
+   <fax>09355976845</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>923</origCustomerid>
+   <agencyHead>Anabella Santiago Balismon</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Anabella Santiago Balismon / ETE Gas Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>93</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>991-0545</tel>
+   <fax>991-0545</fax>
+   <email>none</email>
+   <type_id>2</type_id>
+   <nature_id>6</nature_id>
+   <industry_id>19</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1379</origCustomerid>
+   <agencyHead>Analene A. Duarte</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Analene A. Duarte</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>86</barangay_id>
+   <houseNumber>Talon Talon Elementary School</houseNumber>
+   <tel>09356508080</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>541</origCustomerid>
+   <agencyHead>Analiesa D. Arcillas</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Analiesa D. Arcillas</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Advent Homes, Ayala, Zamboanga City</houseNumber>
+   <tel>(0905)7624697</tel>
+   <fax>(0905)7624697</fax>
+   <email>analiesaarcillas@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1162</origCustomerid>
+   <agencyHead>Analiza L. Apit</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Analiza L. Apit</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>67</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>09352131013</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>856</origCustomerid>
+   <agencyHead>Anamarie S. Sta. Ana</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Anamarie S. Sta. Ana</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>88</barangay_id>
+   <houseNumber>Tetuan Central School</houseNumber>
+   <tel>09083897552</tel>
+   <fax>09083897552</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>707</origCustomerid>
+   <agencyHead>Angelica Vargas</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Angelica Vargas</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Divisoria, Zamboanga City</houseNumber>
+   <tel>(0906)7761200</tel>
+   <fax>(0906)7761200</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>16</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1518</origCustomerid>
+   <agencyHead>Angelie Sanson</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Angelie Sanson</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>24</barangay_id>
+   <houseNumber>Tabuk, San Jose, Zmaboanga City</houseNumber>
+   <tel>09272587898</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>783</origCustomerid>
+   <agencyHead>Angieviv V. Yanos</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Angieviv V. Yanos</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Baliwasan, Zamboanga City</houseNumber>
+   <tel>09057353665</tel>
+   <fax>09057353665</fax>
+   <email>angievivyanos@ymail.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1442</origCustomerid>
+   <agencyHead>Anna Cathlyne Melano</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Anna Cathlyne Melano</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>27</barangay_id>
+   <houseNumber>Don Pablo Lorenzo Memorial High School</houseNumber>
+   <tel>09176320637</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1106</origCustomerid>
+   <agencyHead>Annabelle Mortera</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Annabelle Mortera</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>2</barangay_id>
+   <houseNumber>Zamboanga City State Polytechnic College</houseNumber>
+   <tel>09057061083</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1201</origCustomerid>
+   <agencyHead>Annabelle S. Pablo</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Annabelle S. Pablo</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1245</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Siay, Zamboanga Sibugay</houseNumber>
+   <tel>09356892676</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>550</origCustomerid>
+   <agencyHead>Anniecar L. Salatan</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Anniecar L. Salatan</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>541-A S.M. Drv. Canelar Moret, Zamboanga City</houseNumber>
+   <tel>(0905)1308109</tel>
+   <fax>(0905)1308109</fax>
+   <email>aniecarlarasalatan@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>962</origCustomerid>
+   <agencyHead>Annisa A. Amil</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Annisa A. Amil</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>2</barangay_id>
+   <houseNumber>26 SC Seafront Subd. Baliwasan Grande</houseNumber>
+   <tel>09267664562</tel>
+   <fax>09267664562</fax>
+   <email>amil.annisa@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>14</nature_id>
+   <industry_id>16</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1288</origCustomerid>
+   <agencyHead>Anthony N. Malcampo</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Anthony N. Malcampo</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>77</barangay_id>
+   <houseNumber>51-I, Briones Subd.</houseNumber>
+   <tel>09472327772/09953313360</tel>
+   <fax>09472327772/09953313360</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>473</origCustomerid>
+   <agencyHead>Antolin M. Fernando, Jr. </agencyHead>
+   <customerCode></customerCode>
+   <customerName>Antolin M. Fernando, Jr. </customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Purok 3, Malagutay, Zamboanga City</houseNumber>
+   <tel>09339477301</tel>
+   <fax>09339477301</fax>
+   <email>email@yahoo.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1213</origCustomerid>
+   <agencyHead>ANTONIETA NAVARRO</agencyHead>
+   <customerCode></customerCode>
+   <customerName>ANTONIETA NAVARRO</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>8</barangay_id>
+   <houseNumber>Mayor Jaldon St.</houseNumber>
+   <tel>09276961847</tel>
+   <fax>09276961847</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>318</origCustomerid>
+   <agencyHead>ANTONIO CARPIO</agencyHead>
+   <customerCode></customerCode>
+   <customerName>ANTONIO CARPIO</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Tumaga, Zamboanga City</houseNumber>
+   <tel>984-0950</tel>
+   <fax>984-0950</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>6</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>726</origCustomerid>
+   <agencyHead>Antonio F. delos Reyes</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Antonio F. delos Reyes</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Lunzuran, Zamboanga City</houseNumber>
+   <tel>(0917) 7835049</tel>
+   <fax>(0917) 7835049</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1308</origCustomerid>
+   <agencyHead>Antonio Lim </agencyHead>
+   <customerCode></customerCode>
+   <customerName>Antonio Lim</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>80</barangay_id>
+   <houseNumber>Pamingitan</houseNumber>
+   <tel>09175496520</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>15</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1223</origCustomerid>
+   <agencyHead>Antonio Lim Farm</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Antonio Lim Farm</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>76</barangay_id>
+   <houseNumber>Zone 2, Pasobolong, Zamboanga City</houseNumber>
+   <tel>09217107631</tel>
+   <fax>926-1186</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1069</origCustomerid>
+   <agencyHead>Mark Te</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Anvyeish-Nica Filling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1236</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber></houseNumber>
+   <tel>0999-9931740</tel>
+   <fax>0906-5856132</fax>
+   <email>none</email>
+   <type_id>2</type_id>
+   <nature_id>6</nature_id>
+   <industry_id>4</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1302</origCustomerid>
+   <agencyHead>AQUA BEST (Baliwasan Grande)</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AQUA BEST (Baliwasan Grande)</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>2</barangay_id>
+   <houseNumber>BCC</houseNumber>
+   <tel>09975535115</tel>
+   <fax>none</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1357</origCustomerid>
+   <agencyHead>Alvin Pundol</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua Bonita</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>21</barangay_id>
+   <houseNumber>Recodo Highway</houseNumber>
+   <tel>09275388901</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1527</origCustomerid>
+   <agencyHead>Aqua CD Team Corporation</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua CD Team Corporation</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1179</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Dipolog City</houseNumber>
+   <tel>09172720657</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>374</origCustomerid>
+   <agencyHead>Aqua Clara Refilling Station/Godofredo J. Lim, Jr.</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua Clara Refilling Station/Godofredo J. Lim, Jr.</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Lunzuran, Zamboanga City</houseNumber>
+   <tel>9915905</tel>
+   <fax>9915905</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1532</origCustomerid>
+   <agencyHead>Aqua DS Water Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua DS Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>24</barangay_id>
+   <houseNumber>San Jose Gusu, Zamboanga City</houseNumber>
+   <tel>09177560388</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1343</origCustomerid>
+   <agencyHead>Aqua First</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua First</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>San Jose Gusu</houseNumber>
+   <tel>09771485134</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1476</origCustomerid>
+   <agencyHead>Aqua Fresh Water Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua Fresh Water Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>76</barangay_id>
+   <houseNumber>Pasobolong, Zamboanga City</houseNumber>
+   <tel>09265088603</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1061</origCustomerid>
+   <agencyHead>Aqua Jo Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua Jo Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Suterville</houseNumber>
+   <tel>09266787578</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>304</origCustomerid>
+   <agencyHead>AQUA MISTY FLOW</agencyHead>
+   <customerCode></customerCode>
+   <customerName>AQUA MISTY FLOW</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>0</municipalityCity_id>
+   <barangay_id>0</barangay_id>
+   <houseNumber>Talungun, San Roque, Zamboanga City</houseNumber>
+   <tel>(0926)5637233</tel>
+   <fax>(0926)5637233</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>13</nature_id>
+   <industry_id>9</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1438</origCustomerid>
+   <agencyHead>Aqua Pure Refilling Station</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua Pure Refilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>27</barangay_id>
+   <houseNumber>Gov. Ramos</houseNumber>
+   <tel>09167170334</tel>
+   <fax>NONE</fax>
+   <email>email@email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+  <customer>
+   <origCustomerid>1339</origCustomerid>
+   <agencyHead>Julie Ann Aquino</agencyHead>
+   <customerCode></customerCode>
+   <customerName>Aqua Rain Water Rerfilling Station</customerName>
+   <rstl_id>11</rstl_id>
+   <region_id>12</region_id>
+   <province_id>0</province_id>
+   <municipalityCity_id>1205</municipalityCity_id>
+   <barangay_id>27</barangay_id>
+   <houseNumber>JL Bldg., Gov. Ramos Ave.,</houseNumber>
+   <tel>09178819080/9264048</tel>
+   <fax>09178819080/9264048</fax>
+   <email>email.com</email>
+   <type_id>2</type_id>
+   <nature_id>1</nature_id>
+   <industry_id>1</industry_id>
+  </customer>
+ </customers>
+</root>
