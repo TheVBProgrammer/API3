@@ -9,6 +9,9 @@ return [
     'request' => [
         // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
         'cookieValidationKey' => 'vfwuQepNroSzpkaKoBsi8iHmm1Ye8xu4',
+        'parsers'=>[
+            'application/json'=>'yii\web\JsonParser',
+        ]
     ],
     'view' => [
         'theme' => [
@@ -59,11 +62,17 @@ return [
         'enablePrettyUrl' => true,
         'showScriptName' => false,
         'enableStrictParsing' => false,
-        'rules' => [
+        'rules'=>[
+            ['class'=>'yii\rest\UrlRule','controller'=>'get/request'],
+            ['class'=>'yii\rest\UrlRule','controller'=>'get/customer']
+        ]
+        /*'rules' => [
             '<controller:\w+>/<id:\d+>' => '<controller>/view',
             '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',
             '<controller:\w+>/<action:\w+>' => '<controller>/<action>',
         ],
+         * 
+         */
     ],
     
     /*

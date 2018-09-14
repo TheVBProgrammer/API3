@@ -16,6 +16,9 @@ $config = [
         'post' => [
             'class' => 'app\modules\post\Module',
         ],
+        'get' => [
+            'class' => 'app\modules\get\Module',
+        ],
     ],
     //'timeZone' => 'UTC+08:00',
     'aliases' => [
@@ -31,6 +34,7 @@ $config = [
             'site/*',
             'access/*',
             'post/*',
+            'get/*',
             'lab/*',
             'admin/user/request-password-reset',
         ]

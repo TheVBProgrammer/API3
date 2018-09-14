@@ -34,7 +34,7 @@ class LabController extends \yii\web\Controller
         if($ret['Success']){
             $Proc="spGetRSTLLaboratory(:mRSTL_ID)";
             $Params=[
-                ':mRSTL_ID'=>$rstl_id
+                ':mRSTL_ID'=>$id
             ];
             $Connection= \Yii::$app->db;
             $Rows=$Func->ExecuteStoredProcedureRows($Proc, $Params, $Connection);
