@@ -10,6 +10,7 @@ namespace app\modules\get\controllers;
 use Yii;
 use yii\rest\ActiveController;
 use yii\web\Response;
+use yii\data\ArrayDataProvider;
 /**
  * Description of CustomerController
  *
@@ -58,9 +59,12 @@ class CustomerController extends ActiveController{
         $get= Yii::$app->request->get();
         $id=$get['rstl_id'];
         $Customer=new $this->modelClass;
-        return new \yii\data\ActiveDataProvider([
-            'query' => $Customer->find()->where(['rstl_id'=>$id]),
+        $Provider= new ArrayDataProvider([
+            'allModels' => $Customer->find()
+                ->with(['barangay'])
+                ->where(['rstl_id'=>$id])->asArray()->all(),
         ]);
+        return $Provider->getModels();
     }
     public function behaviors()
     {

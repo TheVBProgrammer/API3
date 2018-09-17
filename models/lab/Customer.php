@@ -3,7 +3,7 @@
 namespace app\models\lab;
 
 use Yii;
-
+use app\models\address\Barangay;
 /**
  * This is the model class for table "tbl_customer".
  *
@@ -28,6 +28,7 @@ use Yii;
  * @property integer $Oldcolumn_municipalitycity_id
  * @property integer $Oldcolumn_district
  *
+ * @property Barangay $barangay
  * @property Customertype $customerType
  * @property Businessnature $businessNature
  * @property Industrytype $industrytype
@@ -140,4 +141,12 @@ class Customer extends \yii\db\ActiveRecord
     {
         return $this->hasMany(Request::className(), ['customer_id' => 'customer_id']);
     }
+     /**
+     * @return \yii\db\ActiveQuery
+     */
+    public function getBarangay()
+    {
+        return $this->hasOne(Barangay::className(), ['barangay_id' => 'barangay_id']);
+    }
+   
 }

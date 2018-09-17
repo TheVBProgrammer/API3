@@ -7,8 +7,12 @@
  */
 
 namespace app\modules\get\controllers;
+use Yii;
 use yii\rest\ActiveController;
 use yii\web\Response;
+use yii\data\ArrayDataProvider;
+use app\models\lab\Request;
+use yii\db\Query;
 /**
  * Description of RequestController
  *
@@ -16,6 +20,27 @@ use yii\web\Response;
  */
 class RequestController extends ActiveController{
     public $modelClass="app\models\lab\Request";
+    
+    /* Declare actions supported by APIs (Added in api/modules/v1/components/controller.php too) */
+    public function actions(){
+        $actions = parent::actions();
+        unset($actions['create']);
+        unset($actions['update']);
+        unset($actions['delete']);
+        unset($actions['view']);
+        unset($actions['index']);
+        return $actions;
+    }
+    /* Declare methods supported by APIs */
+    protected function verbs(){
+        return [
+            'create' => ['POST'],
+            'update' => ['PUT', 'PATCH','POST'],
+            'delete' => ['DELETE'],
+            'view' => ['GET'],
+            'index'=>['GET'],
+        ];
+    }
     
     public function behaviors()
     {
@@ -38,5 +63,16 @@ class RequestController extends ActiveController{
                 ]    
             ],
 	];
+    }
+    public function actionView(){
+        $get= Yii::$app->request->get();
+        $id=$get['rstl_id'];
+        $Request=new $this->modelClass;
+        $Provider= new ArrayDataProvider([
+            'allModels' => $Request->find()
+                ->with(['samples','analyses','customer'])
+                ->where(['rstl_id'=>$id])->asArray()->all(),
+        ]);
+        return $Provider->getModels();
     }
 }
